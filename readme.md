@@ -1,7 +1,5 @@
 # Plants vs Zombies - Java Implementation
 
-Tower defense game featuring strategic plant placement and zombie wave management.
-
 ---
 
 ## Overview
